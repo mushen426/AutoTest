@@ -1,2 +1,4 @@
 这是一个测试文本
 linmushenTest 分支新增的内容
+
+branch1 新增的内容
